@@ -56,17 +56,8 @@
     opacity: 0.66;
     transform: scale(1.05);
   }
-  .converted {
-    display: none;
-  }
-  .converted-media {
-    display: block;
-    width: 100%;
-    text-align: center;
-    margin-top: 2rem;
-    font-size: 2.3rem;
-    text-shadow: 0 0 0.5rem #ff1263;
-  }
+
+
 }
 @media only screen and (max-width: 321px) {
   html {
@@ -126,17 +117,7 @@
     opacity: 0.66;
     transform: scale(1.05);
   }
-  .converted {
-    display: none;
-  }
-  .converted-media {
-    display: block;
-    width: 100%;
-    text-align: center;
-    margin-top: 2rem;
-    font-size: 2.3rem;
-    text-shadow: 0 0 0.5rem #ff1263;
-  }
+
 }
 @media only screen and (min-width: 335px) and (max-width: 346px) {
   html {
@@ -196,17 +177,7 @@
     opacity: 0.66;
     transform: scale(1.05);
   }
-  .converted {
-    display: none;
-  }
-  .converted-media {
-    display: block;
-    width: 100%;
-    text-align: center;
-    margin-top: 2rem;
-    font-size: 2.3rem;
-    text-shadow: 0 0 0.5rem #ff1263;
-  }
+
 }
 @media only screen and (min-width: 400px) and (max-width: 426px) {
   html {
@@ -266,17 +237,7 @@
     opacity: 0.66;
     transform: scale(1.05);
   }
-  .converted {
-    display: none;
-  }
-  .converted-media {
-    display: block;
-    width: 100%;
-    text-align: center;
-    margin-top: 2rem;
-    font-size: 2.3rem;
-    text-shadow: 0 0 0.5rem #ff1263;
-  }
+
 }
 @media only screen and (min-width: 767px) and (max-width: 900px) {
   html {

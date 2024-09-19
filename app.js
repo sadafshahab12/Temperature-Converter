@@ -7,10 +7,10 @@ function convert() {
   if (tempNum == "") {
     alert("Enter a value to convert");
   } else if (from === "fahrenheit" && to === "celsius") {
-    let calc = tempNum * (9 / 5) + 32;
+    let calc = (tempNum - 32) * (5 / 9);
     msg.innerText = `Converted Tempertaure :   ${calc.toFixed(2)} Celsius`;
   } else {
-    let calc2 = (tempNum - 32) * (5 / 9);
+    let calc2 = tempNum * (9 / 5) + 32;
     msg.innerText = `Converted Tempertaure :   ${calc2.toFixed(2)} Fahrenheit`;
   }
 }
