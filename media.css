@@ -1,25 +1,285 @@
-@media only screen and (max-width : 376px) {
-    html {
-        font-size: 43%;
-    }
+@media only screen and (max-width: 376px) {
+  html {
+    font-size: 43%;
+  }
+  .container {
+    min-height: 60rem;
+  }
+
+  .head h1 {
+    font-size: 3rem;
+    padding-right: 3rem;
+  }
+  .head i {
+    font-size: 3rem;
+  }
+  .temp {
+    padding-bottom: 2rem;
+  }
+  .temp label {
+    font-size: 2.5rem;
+  }
+  .temp input {
+    font-size: 2.5rem;
+    width: 100%;
+  }
+  .select {
+    display: block;
+    padding-bottom: 2rem;
+  }
+  .option {
+    margin-bottom: 2rem;
+  }
+  .option label {
+    font-size: 2rem;
+    text-align: center;
+  }
+  .option select {
+    font-size: 2.5rem;
+    width: 100%;
+  }
+
+  .icon i {
+    display: none;
+  }
+  .btn {
+    margin-top: 3rem;
+  }
+  .btn button {
+    font-size: 2.5rem;
+    width: 100%;
+  }
+  .btn button:hover {
+    opacity: 0.8;
+  }
+  .btn button:active {
+    opacity: 0.66;
+    transform: scale(1.05);
+  }
+  .converted {
+    display: none;
+  }
+  .converted-media {
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 2.3rem;
+    text-shadow: 0 0 0.5rem #ff1263;
+  }
 }
-@media only screen and (max-width : 321px){
-    html {
-        font-size: 36%;
-    }
+@media only screen and (max-width: 321px) {
+  html {
+    font-size: 36%;
+  }
+  .container {
+    min-height: 60rem;
+  }
+
+  .head h1 {
+    font-size: 3rem;
+    padding-right: 3rem;
+  }
+  .head i {
+    font-size: 3rem;
+  }
+  .temp {
+    padding-bottom: 2rem;
+  }
+  .temp label {
+    font-size: 2.5rem;
+  }
+  .temp input {
+    font-size: 2.5rem;
+    width: 100%;
+  }
+  .select {
+    display: block;
+    padding-bottom: 2rem;
+  }
+  .option {
+    margin-bottom: 2rem;
+  }
+  .option label {
+    font-size: 2rem;
+    text-align: center;
+  }
+  .option select {
+    font-size: 2.5rem;
+    width: 100%;
+  }
+
+  .icon i {
+    display: none;
+  }
+  .btn {
+    margin-top: 3rem;
+  }
+  .btn button {
+    font-size: 2.5rem;
+    width: 100%;
+  }
+  .btn button:hover {
+    opacity: 0.8;
+  }
+  .btn button:active {
+    opacity: 0.66;
+    transform: scale(1.05);
+  }
+  .converted {
+    display: none;
+  }
+  .converted-media {
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 2.3rem;
+    text-shadow: 0 0 0.5rem #ff1263;
+  }
 }
-@media only screen and (min-width: 335px) and (max-width : 345px) {
-    html {
-        font-size: 40%;
-    }
+@media only screen and (min-width: 335px) and (max-width: 346px) {
+  html {
+    font-size: 40%;
+  }
+  .container {
+    min-height: 60rem;
+  }
+
+  .head h1 {
+    font-size: 3rem;
+    padding-right: 3rem;
+  }
+  .head i {
+    font-size: 3rem;
+  }
+  .temp {
+    padding-bottom: 2rem;
+  }
+  .temp label {
+    font-size: 2.5rem;
+  }
+  .temp input {
+    font-size: 2.5rem;
+    width: 100%;
+  }
+  .select {
+    display: block;
+    padding-bottom: 2rem;
+  }
+  .option {
+    margin-bottom: 2rem;
+  }
+  .option label {
+    font-size: 2rem;
+    text-align: center;
+  }
+  .option select {
+    font-size: 2.5rem;
+    width: 100%;
+  }
+
+  .icon i {
+    display: none;
+  }
+  .btn {
+    margin-top: 3rem;
+  }
+  .btn button {
+    font-size: 2.5rem;
+    width: 100%;
+  }
+  .btn button:hover {
+    opacity: 0.8;
+  }
+  .btn button:active {
+    opacity: 0.66;
+    transform: scale(1.05);
+  }
+  .converted {
+    display: none;
+  }
+  .converted-media {
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 2.3rem;
+    text-shadow: 0 0 0.5rem #ff1263;
+  }
 }
-@media only screen and (min-width : 400px) and (max-width : 426px) {
-    html {
-        font-size: 48%;
-    }
+@media only screen and (min-width: 400px) and (max-width: 426px) {
+  html {
+    font-size: 43%;
+  }
+  .container {
+    min-height: 60rem;
+  }
+
+  .head h1 {
+    font-size: 3rem;
+    padding-right: 3rem;
+  }
+  .head i {
+    font-size: 3rem;
+  }
+  .temp {
+    padding-bottom: 2rem;
+  }
+  .temp label {
+    font-size: 2.5rem;
+  }
+  .temp input {
+    font-size: 2.5rem;
+    width: 100%;
+  }
+  .select {
+    display: block;
+    padding-bottom: 2rem;
+  }
+  .option {
+    margin-bottom: 2rem;
+  }
+  .option label {
+    font-size: 2rem;
+    text-align: center;
+  }
+  .option select {
+    font-size: 2.5rem;
+    width: 100%;
+  }
+
+  .icon i {
+    display: none;
+  }
+  .btn {
+    margin-top: 3rem;
+  }
+  .btn button {
+    font-size: 2.5rem;
+    width: 100%;
+  }
+  .btn button:hover {
+    opacity: 0.8;
+  }
+  .btn button:active {
+    opacity: 0.66;
+    transform: scale(1.05);
+  }
+  .converted {
+    display: none;
+  }
+  .converted-media {
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 2.3rem;
+    text-shadow: 0 0 0.5rem #ff1263;
+  }
 }
-@media only screen and (min-width : 767px) and (max-width: 900px){
-    html {
-        font-size: 57%;
-    }
+@media only screen and (min-width: 767px) and (max-width: 900px) {
+  html {
+    font-size: 57%;
+  }
 }
